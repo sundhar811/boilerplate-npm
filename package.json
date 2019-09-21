@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}, 
-	"author": "Sundhar"
+	"author": "Sundhar",
+	"description": "Managing packages with NPM"
 }
