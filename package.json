@@ -16,5 +16,8 @@
 	}, 
 	"author": "Sundhar",
 	"description": "Managing packages with NPM",
-  "keywords": ["npm", "packages", "fcc", "freecodecamp"]
+  "keywords": ["npm", "packages", "fcc", "freecodecamp"],
+  "license": "MIT",
+  "version": "0.1",
+  "dependencies": {}
 }
